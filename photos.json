@@ -35,19 +35,19 @@
  },
  "2": {
   "card": {
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tokiwaso_Manga_Museum_signboard.jpg/960px-Tokiwaso_Manga_Museum_signboard.jpg",
-   "title": "Tokiwaso Manga Museum signboard.jpg",
-   "lic": "CC BY-SA 4.0",
-   "score": 6,
-   "note": "トキワ荘マンガミュージアムの幟と参道"
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Bookshelves_with_manga.jpg/960px-Bookshelves_with_manga.jpg",
+   "title": "Bookshelves with manga.jpg",
+   "lic": "CC BY 2.0",
+   "score": 8,
+   "note": "アニメショップの棚の間を歩く客（ヒーロー用に人の写った方をカードへ・9/8）"
   },
   "detail": [
    {
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Bookshelves_with_manga.jpg/960px-Bookshelves_with_manga.jpg",
-    "title": "Bookshelves with manga.jpg",
-    "lic": "CC BY 2.0",
-    "score": 8,
-    "note": "アニメショップの棚の間を歩く客"
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tokiwaso_Manga_Museum_signboard.jpg/960px-Tokiwaso_Manga_Museum_signboard.jpg",
+    "title": "Tokiwaso Manga Museum signboard.jpg",
+    "lic": "CC BY-SA 4.0",
+    "score": 6,
+    "note": "トキワ荘マンガミュージアムの幟と参道"
    }
   ],
   "food": [
@@ -171,19 +171,19 @@
  },
  "6": {
   "card": {
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Osamu_Tezuka_Manga_Museum_ac_%282%29.jpg/960px-Osamu_Tezuka_Manga_Museum_ac_%282%29.jpg",
-   "title": "Osamu Tezuka Manga Museum ac (2).jpg",
-   "lic": "CC BY-SA 4.0",
-   "score": 6,
-   "note": "火の鳥像と記念館"
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/56/2025%EB%85%84_10%EC%9B%94_17%EC%9D%BC_%EA%B8%88%EC%9A%94%EC%9D%BC%EC%97%90_%EC%B4%AC%EC%98%81%ED%95%9C_%EB%8F%84%ED%86%A4%EB%B3%B4%EB%A6%AC%EC%9D%98_%EC%95%BC%EA%B2%BD.jpg",
+   "title": "2025년 10월 17일 금요일에 촬영한 도톤보리의 야경.jpg",
+   "lic": "CC0",
+   "score": 8,
+   "note": "道頓堀の夕方の人波（ヒーロー用に人の写った方をカードへ・9/8）"
   },
   "detail": [
    {
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/56/2025%EB%85%84_10%EC%9B%94_17%EC%9D%BC_%EA%B8%88%EC%9A%94%EC%9D%BC%EC%97%90_%EC%B4%AC%EC%98%81%ED%95%9C_%EB%8F%84%ED%86%A4%EB%B3%B4%EB%A6%AC%EC%9D%98_%EC%95%BC%EA%B2%BD.jpg",
-    "title": "2025년 10월 17일 금요일에 촬영한 도톤보리의 야경.jpg",
-    "lic": "CC0",
-    "score": 8,
-    "note": "道頓堀の夕方の人波"
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Osamu_Tezuka_Manga_Museum_ac_%282%29.jpg/960px-Osamu_Tezuka_Manga_Museum_ac_%282%29.jpg",
+    "title": "Osamu Tezuka Manga Museum ac (2).jpg",
+    "lic": "CC BY-SA 4.0",
+    "score": 6,
+    "note": "火の鳥像と記念館"
    }
   ],
   "food": [
